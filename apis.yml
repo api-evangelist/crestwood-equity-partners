@@ -1,7 +1,12 @@
 aid: crestwood-equity-partners
-url: https://raw.githubusercontent.com/api-evangelist/crestwood-equity-partners/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/crestwood-equity-partners/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.crestwood-equity-partners.com
+description: >-
+  Crestwood Equity Partners is a master limited partnership that owns and operates
+  midstream assets including natural gas, NGL, and crude oil gathering, processing,
+  storage, and transportation businesses.
