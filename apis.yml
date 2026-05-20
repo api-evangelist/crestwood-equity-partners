@@ -37,6 +37,8 @@ access: Private
 position: Consuming
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/crestwood-midstream-partners-lp
   - type: Website
     url: https://www.crestwoodlp.com/
   - type: ParentCompany
