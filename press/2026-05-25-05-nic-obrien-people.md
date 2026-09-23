@@ -1,7 +1,9 @@
 ---
 title: Nic O'Brien | People
 url: https://www.bakerbotts.com/people/o/obrien-nic
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Crestwood Equity Partners" press release artificial intelligence'
 position: 5
 source: serpapi-google

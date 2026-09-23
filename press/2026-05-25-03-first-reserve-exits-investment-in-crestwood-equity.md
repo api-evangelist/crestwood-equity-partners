@@ -1,7 +1,9 @@
 ---
 title: First Reserve Exits Investment in Crestwood Equity ...
 url: https://www.stblaw.com/about-us/news/view/2021/03/29/first-reserve-exits-investment-in-crestwood-equity-partners-in-series-of-transactions
-date: '2026-05-25'
+published: '2021-03-29'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Crestwood Equity Partners" press release artificial intelligence'
 position: 3
 source: serpapi-google
