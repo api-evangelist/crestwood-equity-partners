@@ -1,4 +1,4 @@
-# Crestwood Equity Partners (crestwood-equity-partners)
+# Crestwood Equity Partners
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,39 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Crestwood Equity Partners LP was a master limited partnership that owned and operated midstream energy assets across the United States, including natural gas, NGL, and crude oil gathering, processing, storage, and transportation businesses. Crestwood was acquired by Energy Transfer LP in November 2023, with units ceasing to trade on the NYSE on November 3, 2023; operations have been integrated into Energy Transfer's pipeline and midstream network. Crestwood does not publish a public developer API program; commercial interfaces such as nominations, scheduling, and capacity portals are now handled through Energy Transfer's systems.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/crestwood-equity-partners/refs/heads/main/apis.yml)
+Crestwood Equity Partners LP was a master limited partnership that owned and operated midstream energy assets across the United States, including natural gas, NGL, and crude oil gathering, processing, storage, and transportation businesses. Crestwood was acquired by Energy Transfer LP in November 2023, with Crestwood common and preferred units ceasing trading on the NYSE on November 3, 2023; ongoing operations and partner contracts have been integrated into Energy Transfer's pipeline and midstream network. Crestwood does not publish a public developer API program; technical interfaces such as nominations, scheduling, and capacity portals are now handled through Energy Transfer's commercial systems.
 
-## Scope
+**Areas:** Acquired · Crude Oil · Energy · Energy Transfer · Gathering · Midstream · Natural Gas · NGL · Pipelines · Processing · Storage · Transportation
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Private
-- **x-type:** company
+## Crestwood Equity Partners on APIs.io (historical record)
 
-## Tags
+Everything profiled for Crestwood Equity Partners is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/crestwood-equity-partners/](https://apis.io/providers/crestwood-equity-partners/)** — or go straight to one of the APIs or properties below.
 
-- Acquired, Crude Oil, Energy, Energy Transfer, Gathering, Midstream, Natural Gas, NGL, Pipelines, Processing, Storage, Transportation
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2025-03-01
-- **Modified:** 2026-04-28
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public developer APIs have been published. Crestwood was acquired by Energy Transfer LP in November 2023 and its commercial systems are now operated under the Energy Transfer brand.
+- [Crestwood Equity Partners Domain Security](https://apis.io/security/crestwood-equity-partners/crestwood-equity-partners-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.crestwoodlp.com/)
-- [Parent Company - Energy Transfer](https://www.energytransfer.com/)
-- [Acquisition Announcement](https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-completes-acquisition-crestwood)
-- [Contract Parties Notice](https://www.energytransfer.com/wp-content/uploads/2024/02/Crestwood-Acquisition-Notice-Arrow.pdf)
-- [Investor Relations](https://ir.energytransfer.com/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Crestwood Equity Partners: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/crestwood-equity-partners/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
